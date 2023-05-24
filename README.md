@@ -1,24 +1,10 @@
 # README
+## Work in Progress
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic Tab se propõe em ser uma aplicação básica de comanda para pequenos restaurantes ou bares.
 
-Things you may want to cover:
+## O que essa aplicação fará?
+Será possível anotar o pedido do cliente e envia-lo para a cozinha preparar, após o pedido pronto será possivel acompanhar em uma tela especifica para que o pedido seja retirado da cozinha e levado ao cliente.
+Por fim, será possivel fechar a conta do cliente diretamente pela aplicação.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Com &#10084;&#65039; por [Neylon Santos](https://twitter.com/neylontriunfo)
