@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Addons</h1>
+
+<div id="addons">
+  <% @addons.each do |addon| %>
+    <%= render addon %>
+    <p>
+      <%= link_to "Show this addon", addon %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New addon", new_addon_path %>

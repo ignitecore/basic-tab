@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @addon %>
+
+<div>
+  <%= link_to "Edit this addon", edit_addon_path(@addon) %> |
+  <%= link_to "Back to addons", addons_path %>
+
+  <%= button_to "Destroy this addon", @addon, method: :delete %>
+</div>
