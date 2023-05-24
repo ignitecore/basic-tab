@@ -1,10 +1,10 @@
 # README
 ## Work in Progress
 
-Basic Tab se propõe em ser uma aplicação básica de comanda para pequenos restaurantes ou bares.
+Basic Tab aims to be a basic tab application for small restaurants or bars.
 
-## O que essa aplicação fará?
-Será possível anotar o pedido do cliente e envia-lo para a cozinha preparar, após o pedido pronto será possivel acompanhar em uma tela especifica para que o pedido seja retirado da cozinha e levado ao cliente.
-Por fim, será possivel fechar a conta do cliente diretamente pela aplicação.
+## What will this application do?
+It will be possible to take the customer's order and send it to the kitchen to prepare it, after the order is ready it will be possible to follow it on a specific screen so that the order is removed from the kitchen and taken to the customer.
+Finally, it will be possible to close the customer's account directly through the application.
 
-Com &#10084;&#65039; por [Neylon Santos](https://twitter.com/neylontriunfo)
+With &#10084;&#65039; by [Neylon Santos](https://twitter.com/neylontriunfo)
